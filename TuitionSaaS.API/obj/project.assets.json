@@ -541,11 +541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.API/TuitionSaaS.API.csproj",
+      "projectUniqueName": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.API/TuitionSaaS.API.csproj",
       "projectName": "TuitionSaaS.API",
-      "projectPath": "/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.API/TuitionSaaS.API.csproj",
+      "projectPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.API/TuitionSaaS.API.csproj",
       "packagesPath": "/Users/firdauslahmuddin/.nuget/packages/",
-      "outputPath": "/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.API/obj/",
+      "outputPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/firdauslahmuddin/.nuget/NuGet/NuGet.Config"
@@ -560,11 +560,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj": {
-              "projectPath": "/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj"
+            "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj": {
+              "projectPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj"
             },
-            "/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/TuitionSaas.Infrastructure.csproj": {
-              "projectPath": "/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/TuitionSaas.Infrastructure.csproj"
+            "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Infrastructure/TuitionSaas.Infrastructure.csproj": {
+              "projectPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Infrastructure/TuitionSaas.Infrastructure.csproj"
             }
           }
         }
