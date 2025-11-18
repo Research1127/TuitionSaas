@@ -1,0 +1,17 @@
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/bin/Debug/net8.0/TuitionSaas.Infrastructure.deps.json
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/bin/Debug/net8.0/TuitionSaas.Infrastructure.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/bin/Debug/net8.0/TuitionSaas.Infrastructure.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/bin/Debug/net8.0/TuitionSaas.Application.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/bin/Debug/net8.0/TuitionSaaS.Core.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/bin/Debug/net8.0/TuitionSaas.Application.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/bin/Debug/net8.0/TuitionSaaS.Core.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionSaas.Infrastructure.csproj.AssemblyReference.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionSaas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionSaas.Infrastructure.AssemblyInfoInputs.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionSaas.Infrastructure.AssemblyInfo.cs
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionSaas.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionS.0F11F5E5.Up2Date
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionSaas.Infrastructure.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/refint/TuitionSaas.Infrastructure.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/TuitionSaas.Infrastructure.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Infrastructure/obj/Debug/net8.0/ref/TuitionSaas.Infrastructure.dll

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TuitionSaas.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TuitionSaaS.Core": "1.0.0",
+          "TuitionSaas.Application": "1.0.0"
+        },
+        "runtime": {
+          "TuitionSaas.Infrastructure.dll": {}
+        }
+      },
+      "TuitionSaas.Application/1.0.0": {
+        "dependencies": {
+          "TuitionSaaS.Core": "1.0.0"
+        },
+        "runtime": {
+          "TuitionSaas.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TuitionSaaS.Core/1.0.0": {
+        "runtime": {
+          "TuitionSaaS.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TuitionSaas.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TuitionSaas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TuitionSaaS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

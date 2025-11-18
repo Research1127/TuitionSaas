@@ -1,0 +1,11 @@
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/bin/Debug/net8.0/TuitionSaaS.Core.deps.json
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/bin/Debug/net8.0/TuitionSaaS.Core.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/bin/Debug/net8.0/TuitionSaaS.Core.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/TuitionSaaS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/TuitionSaaS.Core.AssemblyInfoInputs.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/TuitionSaaS.Core.AssemblyInfo.cs
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/TuitionSaaS.Core.csproj.CoreCompileInputs.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/TuitionSaaS.Core.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/refint/TuitionSaaS.Core.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/TuitionSaaS.Core.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaaS.Core/obj/Debug/net8.0/ref/TuitionSaaS.Core.dll

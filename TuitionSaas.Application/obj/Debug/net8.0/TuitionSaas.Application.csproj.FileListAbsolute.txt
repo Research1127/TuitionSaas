@@ -1,0 +1,15 @@
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/bin/Debug/net8.0/TuitionSaas.Application.deps.json
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/bin/Debug/net8.0/TuitionSaas.Application.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/bin/Debug/net8.0/TuitionSaas.Application.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/bin/Debug/net8.0/TuitionSaaS.Core.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/bin/Debug/net8.0/TuitionSaaS.Core.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionSaas.Application.csproj.AssemblyReference.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionSaas.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionSaas.Application.AssemblyInfoInputs.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionSaas.Application.AssemblyInfo.cs
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionSaas.Application.csproj.CoreCompileInputs.cache
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionS.ABF817C3.Up2Date
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionSaas.Application.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/refint/TuitionSaas.Application.dll
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/TuitionSaas.Application.pdb
+/Users/firdauslahmuddin/RiderProjects/TuitionSaaS/TuitionSaas.Application/obj/Debug/net8.0/ref/TuitionSaas.Application.dll

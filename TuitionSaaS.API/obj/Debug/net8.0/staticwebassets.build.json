@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Cy02mtBWCHVQJO4yRcVGVT5F4fVaQ+ixL4A03fbX0F0=",
+  "Source": "TuitionSaaS.API",
+  "BasePath": "_content/TuitionSaaS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
