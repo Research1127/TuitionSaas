@@ -3,9 +3,11 @@ namespace TuitionSaaS.Core.Entities;
 public class User
 {
     public Guid Id { get; set; }
-    public required string Username { get; set; }
-    public required string Email { get; set; }
-    public required string PasswordHash { get; set; }
+    public string Username { get; set; } = null!;  // required
+    public string Email { get; set; } = null!;
+    public string PasswordHash { get; set; } = null!;
+    public Guid TenantId { get; set; }
 
-    public Guid TenantId { get; set; } // Belongs to which Tenant
+    // Add FullName property
+    public string FullName { get; set; } = null!;
 }

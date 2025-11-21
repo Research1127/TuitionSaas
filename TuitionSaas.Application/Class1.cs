@@ -1,4 +1,4 @@
-﻿namespace TuitionSaas.Application;
+﻿namespace TuitionSaaS.Application;
 
 public class Class1
 {

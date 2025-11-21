@@ -1,4 +1,4 @@
-﻿namespace TuitionSaas.Infrastructure;
+﻿namespace TuitionSaaS.Infrastructure;
 
 public class Class1
 {

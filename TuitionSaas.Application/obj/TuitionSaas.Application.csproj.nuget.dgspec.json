@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj": {}
+    "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.Application/TuitionSaaS.Application.csproj": {}
   },
   "projects": {
-    "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj": {
+    "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.Application/TuitionSaaS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj",
-        "projectName": "TuitionSaas.Application",
-        "projectPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Application/TuitionSaas.Application.csproj",
+        "projectUniqueName": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.Application/TuitionSaaS.Application.csproj",
+        "projectName": "TuitionSaaS.Application",
+        "projectPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.Application/TuitionSaaS.Application.csproj",
         "packagesPath": "/Users/firdauslahmuddin/.nuget/packages/",
-        "outputPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaas.Application/obj/",
+        "outputPath": "/Users/firdauslahmuddin/Desktop/Rider/TuitionSaaS/TuitionSaaS.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/firdauslahmuddin/.nuget/NuGet/NuGet.Config"

@@ -4,9 +4,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuitionSaaS.API", "TuitionS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuitionSaaS.Core", "TuitionSaaS.Core\TuitionSaaS.Core.csproj", "{34882467-265A-4963-9326-CADF2BDFDBF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuitionSaas.Application", "TuitionSaas.Application\TuitionSaas.Application.csproj", "{0F9654FD-80FC-4902-87EA-68267306A406}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuitionSaaS.Application", "TuitionSaaS.Application\TuitionSaaS.Application.csproj", "{0F9654FD-80FC-4902-87EA-68267306A406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuitionSaas.Infrastructure", "TuitionSaas.Infrastructure\TuitionSaas.Infrastructure.csproj", "{7F0DDDE3-A4AE-45B0-85F0-E57DC36703BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuitionSaaS.Infrastructure", "TuitionSaaS.Infrastructure\TuitionSaaS.Infrastructure.csproj", "{7F0DDDE3-A4AE-45B0-85F0-E57DC36703BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
